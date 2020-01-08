@@ -20,7 +20,8 @@ Contains information for the AAAI-KDF'20 paper "The Automated Venture Capitalist
 ### Citation
 ```
 @inproceedings{gham2020autovc,
-  title={The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures},
+  title={The Automated Venture Capitalist: 
+            Data and Methods to Predict the Fate of Startup Ventures},
   author={Ghassemi, Mohammad M. and Song, Christopher and Alhanai, Tuka},
   booktitle={KDF at the Thirty-Fourth AAAI Conference on Artificial Intelligence},
   year={2020}
