@@ -1,7 +1,8 @@
 # automated-venture-capitalist
 Contains information for the AAAI-KDF'20 paper "The Automated Venture Capitalist".
 
-You can perform analysis presented in the paper by running `Analysis.m` end-to-end.
+- `Analysis.m` is a Matlab script that contains the analyses presented in the paper. 
+
 - `data/`
   - `individualData.csv` contains information at the individual-level.
   - `teamData.csv` contains information at the team-level (which was featurized from the individual-level data).
