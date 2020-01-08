@@ -11,7 +11,7 @@ Specifically, this repository supports information presented in the AAAI-KDF'20 
   - `teamData.csv` contains information at the team-level (which was featurized from the individual-level data).
 
 - `results/` 
-  - `results.csv` contains all model performance with leave-one-team-out cross-validation.
+  - `results.csv` contains all model performance with leave-one-team-out cross-validation (Tables S4 & S5 in paper).
   - `comparison.csv` contains classification performance comparisons between crowd, judges, and models (Table 2 in paper).
 
 - `modelCoeff/` 
