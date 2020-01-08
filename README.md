@@ -2,7 +2,7 @@
 Investing is hard because there are an incredible number of factors that influence to the success or failure of ventures. Some of these factors are within a venture's control, and others are not. This respository contains an AI method, tool, and dataset to understand these factors and the complex interactions between them so that organizations and members of the general public can do a better job assessing risk and identifying investment opportunities.
 
 ### In this Repository
-Specifically, this repository supports information presented in the AAAI-KDF'20 paper "The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures".
+Specifically, this repository supports information presented in the AAAI-KDF'20 paper "[The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](https://ghassemi.xyz/static/documents/Ghassemi_AAAI_The-automated-venture-capitalist_2020.pdf)".
 
 - `Analysis.m` is a Matlab script that contains the analyses presented in the paper. 
 
