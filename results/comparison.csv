@@ -1,0 +1,15 @@
+info,val
+"how many successful teams are in the data?",0.27683615819209
+"how many nominated teams succeeded according to MIT100K judges?",0.388888888888889
+"how many nominated teams succeeded according to MIT100K judges, excluding finalists?",0.361702127659574
+"how many successful teams did the mit100k judges catch?",0.428571428571429
+"how many successful teams did the mit100k judges catch, excluding finalists?",0.377777777777778
+"how many unnominated teams became successful?",0.227642276422764
+"how many successful teams did the algorithm find?",0.448979591836735
+"how many successful teams did the algorithm find if only nominated 54?",0.407407407407407
+"toss out finalists, how many successful teams did the algorithm find? (given success)",0.422222222222222
+"toss out finalists, how many successful teams did the algorithm find? (given nomination)",0.404255319148936
+"how many successful teams did the algorithm find?",0.36734693877551
+"how many successful teams did the algorithm find if only nominated 54?",0.333333333333333
+"toss out finalists, how many successful teams did the algorithm find? (given success)",0.355555555555556
+"toss out finalists, how many successful teams did the algorithm find? (given nomination)",0.340425531914894
