@@ -34,4 +34,4 @@ Specifically, this repository supports information presented in the AAAI-KDF'20 
 ```
 
 ### Contact
-If you have further inquiries, please contact [research@ghamut.com](research@ghamut.com)
+If you find this interesting and would like to learn more, please contact [research@ghamut.com](research@ghamut.com)
