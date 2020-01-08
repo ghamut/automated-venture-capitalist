@@ -17,6 +17,10 @@ Specifically, this repository supports information presented in the AAAI-KDF'20 
 - `modelCoeff/` 
   - `{nomination,success}Model_coeff.csv` contains logistic regression model coefficients (Table 3 in paper).
   - `{nomination,success}Model_perf.csv`contains logistic regression model performance when trained on all data.
+
+- `figures/`
+  - `calibrationPlot_success.png` shows model calibration (Figure 1 in paper).
+  - `costPlot_{nomination,success}.png` shows gain/loss of model predictions (Figure 2 in paper).
   
 - `functions/` contains supporting scripts.
 
