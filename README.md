@@ -12,10 +12,12 @@ Contains information for the AAAI-KDF'20 paper "The Automated Venture Capitalist
   - `comparison.csv` contains classification performance comparisons between crowd, judges, and models (Table 2 in paper).
 
 - `modelCoeff/` 
-  - `{nomination,success}_coeff.csv` contains logistic regression model coefficients (Table 3 in paper).
-  - `{nomination,success}_perf.csv`contains logistic regression model performance when trained on all data.
+  - `{nomination,success}Model_coeff.csv` contains logistic regression model coefficients (Table 3 in paper).
+  - `{nomination,success}Model_perf.csv`contains logistic regression model performance when trained on all data.
   
 - `functions/` contains supporting scripts.
+
+
 
 ### Citation
 ```
